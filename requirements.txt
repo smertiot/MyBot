@@ -1,1 +1,2 @@
-pip install telebot
+pyTelegramBotAPI==4.12.0
+Flask==2.3.2
